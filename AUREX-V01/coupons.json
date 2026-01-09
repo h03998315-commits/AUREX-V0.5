@@ -1,0 +1,8 @@
+{
+  "available": [
+    { "id": 1, "name": "₹50 Coupon", "cost": 50, "active": true },
+    { "id": 2, "name": "₹100 Coupon", "cost": 100, "active": true },
+    { "id": 3, "name": "Gift Cards (Coming Soon)", "cost": 0, "active": false },
+    { "id": 4, "name": "Clothing (Coming Soon)", "cost": 0, "active": false }
+  ]
+}
